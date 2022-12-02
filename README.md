@@ -33,7 +33,7 @@ Python folder:
 - GIC_BAM.yml: Python environment to be created (see GIC_BAM_Guide_inputE.docx for instructions).
 - GIC_BAM_t_input_E.py: Python code to compute the GIC from the E-field.
 
-Matlab code:
+Matlab folder:
 - ConsEqNet.m: Constructs the DC-equivalent network. Called by GIC_BAM_t_inputE.m
 - deg2utm_zone.m: Lat, lon to UTM coordinates with a specified constant zone. Called by GIC_BAM_t_inputE.m
 - GIC_BAM_t_inputE.m: Matlab code to compute the GIC from the E-field.
