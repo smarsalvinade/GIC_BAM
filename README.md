@@ -27,7 +27,7 @@ TXT files:
 - LatLon_Egrid_SE_USA.txt: Latitude and longitude of the grid points where the geoelectric field (E) is specified.
 - E_2D_East.txt: East component of the E-field at each grid point (LatLon_Egrid_SE_USA.txt) through time.
 - E_2D_North.txt: North component of the E-field at each grid point (LatLon_Egrid_SE_USA.txt) through time.
-- LatLon_SE_USA.txt: Latitude and longitude of the coastline of South-East USA (for plotting results).
+- LatLon_SE_USA.txt: Latitude and longitude of the coastline of South-East USA (to plot the results).
 
 Python folder:
 - GIC_BAM.yml: Python environment to be created (see GIC_BAM_Guide_inputE.docx for instructions).
