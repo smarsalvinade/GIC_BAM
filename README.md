@@ -1,6 +1,10 @@
 # GIC_BAM
 Software to compute Geomagnetically Induced Currents (GIC) in power networks. Based on the Bus Admittance Matrix method (BAM). This method is faster in essence than LP and NAM traditional methods, as it uses smaller matrices.
 
+See scientific publication at:
+https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021SW002984
+and specifically, the publication’s Supporting Information for detailed descriptions and definitions of variables.
+
 ### Input:
 
  - Real network parameters (line and grounding resistances, transformer types and winding resistances, substation locations, ...) conveniently arranged in input Excel file. Assumed constant in time.
