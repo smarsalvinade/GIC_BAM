@@ -40,5 +40,5 @@ Contain example power networks to be used as an input both in the Python and Mat
 
 ### Matlab folder:
 - ConsEqNet.m: Constructs the DC-equivalent network. Called by GIC_BAM_t_inputE.m
-- deg2utm_zone.m: Lat, lon to UTM coordinates with a specified constant zone. Called by GIC_BAM_t_inputE.m
+- deg2utm_zone.m: Converts lat, lon to UTM coordinates with a predefined constant UTM zone. Called by GIC_BAM_t_inputE.m
 - GIC_BAM_t_inputE.m: Matlab code to compute the GIC from the E-field.
