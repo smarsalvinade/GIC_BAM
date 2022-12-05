@@ -26,7 +26,7 @@ The Python and Matlab folders contain independent and nearly equivalent code in 
 Contain example power networks to be used as an input both in the Python and Matlab code:
 - Benchmark.xlsx: Described in *Horton, R., Boteler, D., Overbye, T. J., Pirjola, R., & Dugan, R. C. (2012). A test case for the calculation of geomagnetically induced currents. IEEE Transactions on Power Delivery, 27, 2368– 2373. https://doi.org/10.1109/TPWRD.2012.2206407*
 - Horton&BotelerGrid.xlsx: Described in *Horton, R., & Boteler, D. H. (2013). Calculation of GIC in bulk power systems. In Proceedings CIGRE-US grid of the future symposium, Boston, US, October 20–22.*
-- TstGrid_a.xlsx and TstGrid_b.xlsx: Described in *S. Marsal, J. M. Torta, V. Canillas‐Pérez, J. J. Curto, A New Standalone Tool for DC‐Equivalent Network Generation and GIC Calculation in Power Grids With Multiple Voltage Levels, Space Weather, 10.1029/2021SW002984, 20, 3, (2022).*
+- TstGrid_a.xlsx and TstGrid_b.xlsx: Described in *S. Marsal, J. M. Torta, V. Canillas‐Pérez, J. J. Curto, A New Standalone Tool for DC‐Equivalent Network Generation and GIC Calculation in Power Grids With Multiple Voltage Levels, Space Weather, 10.1029/2021SW002984, 20, 3, (2022).* https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021SW002984
 
 ### TXT files:
 - LatLon_Egrid_SE_USA.txt: Latitude and longitude of the grid points where the geoelectric field (E) is specified.
